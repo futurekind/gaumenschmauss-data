@@ -1,82 +1,84 @@
-[
-  {
-    "id": "m01",
-    "type": "bot",
-    "body": "Bonjour Madame, \nmein Name ist François!"
-  },
-  {
-    "id": "m02",
-    "type": "bot",
-    "body": "Ich freue mich ausserordentlich, dass Sie in unserem Restaurant einen Tisch reservieren möchten. Da sind Sie auf der sicheren Seite, denn gerade in der Ferienzeit sind bei uns die Tische schwer zu bekommen!"
-  },
-  {
-    "id": "m03",
-    "type": "bot",
-    "body": "Darf ich zu nächst nach Ihrem Namen fragen?"
-  },
-  {
-    "id": "m04",
-    "type": "user",
-    "body": "Marie-Christine von Locquenghien"
-  },
-  {
-    "id": "m06",
-    "type": "bot",
-    "body": "Très bon, Frau von Locquenghien!\nFür wann möchten Sie einen Tisch reservieren?"
-  },
-  {
-    "id": "m07",
-    "type": "user",
-    "body": "16.08.2019, 20:00 Uhr"
-  },
-  {
-    "id": "m08",
-    "type": "user",
-    "body": "16.08.2019, 20:00 Uhr"
-  },
-  {
-    "id": "m09",
-    "type": "bot",
-    "body": "Einen Moment, ich schaue nach, ob wir am 16.08.2019 um 20:00 Uhr noch einen Tisch frei haben."
-  },
-  {
-    "id": "m10",
-    "type": "bot",
-    "body": "..."
-  },
-  {
-    "id": "m11",
-    "type": "bot",
-    "body": "Ah, das tut mir Leid, am 16.08.2019 kann ich Ihnen nur ab 21.00 Uhr einen Tisch anbieten?"
-  },
-  {
-    "id": "m12",
-    "type": "user",
-    "body": "Ja, ok"
-  },
-  {
-    "id": "m13",
-    "type": "user",
-    "body": "Ja, ok"
-  },
-  {
-    "id": "m14",
-    "type": "bot",
-    "body": "Wunderbar, dann reserviere ich 16.08.2019 um 21:00 Uhr!"
-  },
-  {
-    "id": "m15",
-    "type": "bot",
-    "body": "..."
-  },
-  {
-    "id": "m16",
-    "type": "bot",
-    "body": "Ich habe gerade gesehen, dass es am 16.08.2019 25°C und Sonnenschein geben soll. Möchten Sie gerne draussen auf unserer Terrasse sitzen?"
-  },
-  {
-    "id": "m17",
-    "type": "user",
-    "body": "Ja, ok"
-  }
-]
+{
+  "messages": [
+      ({
+        "id": "m01",
+        "type": "bot",
+        "body": "Bonjour Madame, \nmein Name ist François!"
+      },
+      {
+        "id": "m02",
+        "type": "bot",
+        "body": "Ich freue mich ausserordentlich, dass Sie in unserem Restaurant einen Tisch reservieren möchten. Da sind Sie auf der sicheren Seite, denn gerade in der Ferienzeit sind bei uns die Tische schwer zu bekommen!"
+      },
+      {
+        "id": "m03",
+        "type": "bot",
+        "body": "Darf ich zu nächst nach Ihrem Namen fragen?"
+      },
+      {
+        "id": "m04",
+        "type": "user",
+        "body": "Marie-Christine von Locquenghien"
+      },
+      {
+        "id": "m06",
+        "type": "bot",
+        "body": "Très bon, Frau von Locquenghien!\nFür wann möchten Sie einen Tisch reservieren?"
+      },
+      {
+        "id": "m07",
+        "type": "user",
+        "body": "16.08.2019, 20:00 Uhr"
+      },
+      {
+        "id": "m08",
+        "type": "user",
+        "body": "16.08.2019, 20:00 Uhr"
+      },
+      {
+        "id": "m09",
+        "type": "bot",
+        "body": "Einen Moment, ich schaue nach, ob wir am 16.08.2019 um 20:00 Uhr noch einen Tisch frei haben."
+      },
+      {
+        "id": "m10",
+        "type": "bot",
+        "body": "..."
+      },
+      {
+        "id": "m11",
+        "type": "bot",
+        "body": "Ah, das tut mir Leid, am 16.08.2019 kann ich Ihnen nur ab 21.00 Uhr einen Tisch anbieten?"
+      },
+      {
+        "id": "m12",
+        "type": "user",
+        "body": "Ja, ok"
+      },
+      {
+        "id": "m13",
+        "type": "user",
+        "body": "Ja, ok"
+      },
+      {
+        "id": "m14",
+        "type": "bot",
+        "body": "Wunderbar, dann reserviere ich 16.08.2019 um 21:00 Uhr!"
+      },
+      {
+        "id": "m15",
+        "type": "bot",
+        "body": "..."
+      },
+      {
+        "id": "m16",
+        "type": "bot",
+        "body": "Ich habe gerade gesehen, dass es am 16.08.2019 25°C und Sonnenschein geben soll. Möchten Sie gerne draussen auf unserer Terrasse sitzen?"
+      },
+      {
+        "id": "m17",
+        "type": "user",
+        "body": "Ja, ok"
+      })
+  ]
+}
